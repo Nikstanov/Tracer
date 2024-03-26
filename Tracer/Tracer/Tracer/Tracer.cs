@@ -13,11 +13,6 @@ using Tracer.Serialization;
 
 namespace Tracer
 {
-    /*Tracer должен собирать следующую информацию об измеряемом методе:
-    имя метода;
-    имя класса с измеряемым методом;
-    время выполнения метода.
-    */
     public class Tracer : ITracer
     {
 
