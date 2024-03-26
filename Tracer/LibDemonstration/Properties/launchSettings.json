@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LibDemonstration": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Nikstanov\\Study\\6sem\\.Net\\Tracer\\Tracer\\LibDemonstration"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "Id": 1,
+  "Time": 275.7531,
+  "Methods": [
+    {
+      "method properties": {
+        "Name": "MyMethod",
+        "ClassName": "Foo",
+        "Time": 275.7531,
+        "methods": [
+          {
+            "method properties": {
+              "Name": "InnerMethod",
+              "ClassName": "Bar",
+              "Time": 110.8331,
+              "methods": []
+            }
+          }
+        ]
+      }
+    }
+  ]
+}{
+  "Id": 4,
+  "Time": 600.3298,
+  "Methods": [
+    {
+      "method properties": {
+        "Name": "MyMethod",
+        "ClassName": "Foo",
+        "Time": 275.8082,
+        "methods": [
+          {
+            "method properties": {
+              "Name": "InnerMethod",
+              "ClassName": "Bar",
+              "Time": 110.8988,
+              "methods": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "method properties": {
+        "Name": "MySecondMethod",
+        "ClassName": "Foo",
+        "Time": 324.5216,
+        "methods": [
+          {
+            "method properties": {
+              "Name": "InnerMethod",
+              "ClassName": "Bar",
+              "Time": 109.353,
+              "methods": []
+            }
+          }
+        ]
+      }
+    }
+  ]
+}{
+  "Id": 5,
+  "Time": 382.9958,
+  "Methods": [
+    {
+      "method properties": {
+        "Name": "MyMethod",
+        "ClassName": "Foo",
+        "Time": 275.8053,
+        "methods": [
+          {
+            "method properties": {
+              "Name": "InnerMethod",
+              "ClassName": "Bar",
+              "Time": 110.9026,
+              "methods": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "method properties": {
+        "Name": "InnerMethod",
+        "ClassName": "Bar",
+        "Time": 107.1905,
+        "methods": []
+      }
+    }
+  ]
+}

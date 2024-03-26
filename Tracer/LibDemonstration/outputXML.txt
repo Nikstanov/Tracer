@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-16"?>
+<root id="1" time="275.7531">
+	<Methods>
+		<MethodNode>
+			<methodProperties name="MyMethod" class="Foo" time="275.7531">
+				<methods>
+					<methodProperties name="InnerMethod" class="Bar" time="110.8331" />
+				</methods>
+			</methodProperties>
+		</MethodNode>
+	</Methods>
+</root><?xml version="1.0" encoding="utf-16"?>
+<root id="4" time="600.3298">
+	<Methods>
+		<MethodNode>
+			<methodProperties name="MyMethod" class="Foo" time="275.8082">
+				<methods>
+					<methodProperties name="InnerMethod" class="Bar" time="110.8988" />
+				</methods>
+			</methodProperties>
+		</MethodNode>
+		<MethodNode>
+			<methodProperties name="MySecondMethod" class="Foo" time="324.5216">
+				<methods>
+					<methodProperties name="InnerMethod" class="Bar" time="109.353" />
+				</methods>
+			</methodProperties>
+		</MethodNode>
+	</Methods>
+</root><?xml version="1.0" encoding="utf-16"?>
+<root id="5" time="382.9958">
+	<Methods>
+		<MethodNode>
+			<methodProperties name="MyMethod" class="Foo" time="275.8053">
+				<methods>
+					<methodProperties name="InnerMethod" class="Bar" time="110.9026" />
+				</methods>
+			</methodProperties>
+		</MethodNode>
+		<MethodNode>
+			<methodProperties name="InnerMethod" class="Bar" time="107.1905" />
+		</MethodNode>
+	</Methods>
+</root>
