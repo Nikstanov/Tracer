@@ -1,0 +1,96 @@
+{"threads":[
+{
+  "Id": 1,
+  "Time": 263.4337,
+  "Methods": [
+    {
+      "method properties": {
+        "Name": "MyMethod",
+        "ClassName": "Foo",
+        "Time": 263.4337,
+        "methods": [
+          {
+            "method properties": {
+              "Name": "InnerMethod",
+              "ClassName": "Bar",
+              "Time": 109.8785,
+              "methods": []
+            }
+          }
+        ]
+      }
+    }
+  ]
+},
+{
+  "Id": 7,
+  "Time": 575.3507999999999,
+  "Methods": [
+    {
+      "method properties": {
+        "Name": "MyMethod",
+        "ClassName": "Foo",
+        "Time": 263.4294,
+        "methods": [
+          {
+            "method properties": {
+              "Name": "InnerMethod",
+              "ClassName": "Bar",
+              "Time": 109.8969,
+              "methods": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "method properties": {
+        "Name": "MySecondMethod",
+        "ClassName": "Foo",
+        "Time": 311.9214,
+        "methods": [
+          {
+            "method properties": {
+              "Name": "InnerMethod",
+              "ClassName": "Bar",
+              "Time": 109.0913,
+              "methods": []
+            }
+          }
+        ]
+      }
+    }
+  ]
+},
+{
+  "Id": 8,
+  "Time": 371.8567,
+  "Methods": [
+    {
+      "method properties": {
+        "Name": "MyMethod",
+        "ClassName": "Foo",
+        "Time": 263.4439,
+        "methods": [
+          {
+            "method properties": {
+              "Name": "InnerMethod",
+              "ClassName": "Bar",
+              "Time": 109.9116,
+              "methods": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "method properties": {
+        "Name": "InnerMethod",
+        "ClassName": "Bar",
+        "Time": 108.4128,
+        "methods": []
+      }
+    }
+  ]
+]
+}
