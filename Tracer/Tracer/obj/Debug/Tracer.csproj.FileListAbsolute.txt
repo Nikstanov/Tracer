@@ -1,0 +1,8 @@
+C:\Nikstanov\Study\6sem\.Net\Tracer\Tracer\Tracer\bin\Debug\Tracer.dll
+C:\Nikstanov\Study\6sem\.Net\Tracer\Tracer\Tracer\bin\Debug\Tracer.pdb
+C:\Nikstanov\Study\6sem\.Net\Tracer\Tracer\Tracer\bin\Debug\Newtonsoft.Json.dll
+C:\Nikstanov\Study\6sem\.Net\Tracer\Tracer\Tracer\obj\Debug\Tracer.csproj.AssemblyReference.cache
+C:\Nikstanov\Study\6sem\.Net\Tracer\Tracer\Tracer\obj\Debug\Tracer.csproj.CoreCompileInputs.cache
+C:\Nikstanov\Study\6sem\.Net\Tracer\Tracer\Tracer\obj\Debug\Tracer.csproj.CopyComplete
+C:\Nikstanov\Study\6sem\.Net\Tracer\Tracer\Tracer\obj\Debug\Tracer.dll
+C:\Nikstanov\Study\6sem\.Net\Tracer\Tracer\Tracer\obj\Debug\Tracer.pdb
